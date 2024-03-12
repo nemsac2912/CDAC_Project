@@ -11,3 +11,5 @@ Developed the front-end of the application using ReactJS, creating a user-friend
 Implemented the back-end services using Spring Boot, ensuring efficient data handling and smooth operation.
 
 Utilized MySQL for database management, storing and retrieving data related to users, vehicles, and rental transactions.
+
+Note: This project requires Node v16.15.1 to be installed on your system.
